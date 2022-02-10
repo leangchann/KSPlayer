@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
     s.homepage         = 'https://github.com/kingslay/KSPlayer'
     s.authors = { 'kintan' => '554398854@qq.com' }
     s.license          = 'MIT'
-    s.source           = { :git => 'https://github.com/kingslay/KSPlayer.git', :tag => s.version.to_s }
+    s.source           = { :git => 'https://github.com/leangchann/KSPlayer.git', :tag => s.version.to_s }
 
     s.ios.deployment_target = '11.0'
     s.osx.deployment_target = '10.13'
